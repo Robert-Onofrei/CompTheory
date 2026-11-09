@@ -31,5 +31,7 @@ Run all cells from top to bottom. The whole notebook runs in under three minutes
 
 ## References
 - National Institute of Standards and Technology, [FIPS 180-4: Secure Hash Standard](https://doi.org/10.6028/NIST.FIPS.180-4).
-- NumPy documentation, [Data types](https://numpy.org/doc/stable/user/basics.types.html), [Overflow Errors](https://numpy.org/doc/stable/user/basics.types.html#overflow-errors).
+- NumPy documentation, [Data types](https://numpy.org/doc/stable/user/basics.types.html), including the section on [overflow errors](https://numpy.org/doc/stable/user/basics.types.html#overflow-errors).
+- NumPy documentation, [The N-dimensional array (ndarray)](https://numpy.org/doc/stable/reference/arrays.ndarray.html).
+- NumPy documentation, [Scalars: `numpy.uint32`](https://numpy.org/doc/stable/reference/arrays.scalars.html#numpy.uint32).
 
